@@ -91,3 +91,5 @@ Este projeto foi desenvolvido com foco em:
 
 **José Alves**  
 📧 [GitHub - Netinho-dotcom](https://github.com/Netinho-dotcom)
+
+Vídeo explicativo - https://youtu.be/xOmTEa9afME
